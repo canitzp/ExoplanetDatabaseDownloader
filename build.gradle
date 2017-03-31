@@ -1,0 +1,15 @@
+group 'de.canitzp.exoplanetdatabase'
+version '1.0.0'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
